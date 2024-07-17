@@ -1,4 +1,4 @@
-# Proyecto de Consulta de Libros con GUTENDEX ![Estado](https://img.shields.io/badge/estado-finalizado-brightgreen)
+# Proyecto de Consulta de Libros con GUTENDEX ![Estado: ](https://img.shields.io/badge/estado-finalizado-brightgreen)
 
 ---
 
