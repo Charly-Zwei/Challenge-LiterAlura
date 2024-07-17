@@ -32,10 +32,4 @@ El **Proyecto de Consulta de Libros con GUTENDEX** es una aplicación desarrolla
 5. **Configurar la API Key de GUTENDEX**: Si es necesario, obtener una API key y configurarla en el archivo de configuración del proyecto.
 6. **Ejecutar la aplicación**.
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o realiza un pull request con tus cambios.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+## Gracias!
